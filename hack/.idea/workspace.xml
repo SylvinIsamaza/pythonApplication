@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91bd74a1-97ea-4681-946b-2407680c1b5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../basic/clown.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/top_10_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/word_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bulk_telegram/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/products/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/products/templates/products/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/products/templates/products/product_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/info1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/info2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/info3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/info4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/notification.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/p9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/post8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/static/assets/user (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/django_tutor/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileOrganiser/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sms/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sms/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sms/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sms/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram_bulk_account/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Tv7nZcO2IsYtiThttbrMxJEBKK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/isamaza/Documents/python_script/django_tutorial",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="telegram_bulk_account" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../telegram_bulk_account" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../telegram_bulk_account/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="telegram_bulk_account" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91bd74a1-97ea-4681-946b-2407680c1b5a" name="Changes" comment="" />
+      <created>1691911867449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691911867449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
